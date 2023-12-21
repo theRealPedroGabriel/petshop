@@ -1,0 +1,11 @@
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-trigger:hover .dropdown-trigger-menu {
+  display: block;
+}
+
+.elemento {
+  overflow: visible;
+}

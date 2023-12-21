@@ -21,12 +21,14 @@ module.exports = {
     },
     colors: {
       body: "#f6eee3",
+      gray: "#e9e9e9",
       primary: "#8AF28C",
       secundary: "#8C3626",
       verde: "#DCF2AE",
+      whitee: "#ffffff",
       accent: {
         DEFAULT: "#F28ABB",
-        hover: "#732A4C",
+        hover: "#F20574",
       },
     },
     extend: {
@@ -35,6 +37,7 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      
     },
   },
   plugins: [],
